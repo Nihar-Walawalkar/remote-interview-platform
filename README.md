@@ -1,12 +1,6 @@
 # Remote Interview Platform 🚀
 
 <div align="center">
-  <img src="https://i.imgur.com/L3bA5c5.png" alt="Remote Interview Platform Showcase" width="800"/>
-</div>
-
-<br/>
-
-<div align="center">
   <strong>A full-stack, real-time collaborative platform for conducting remote technical interviews. Featuring high-quality video conferencing, a shared code editor, and robust scheduling capabilities to streamline the hiring process.</strong>
 </div>
 
